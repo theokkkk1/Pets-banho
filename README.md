@@ -5,7 +5,7 @@
 
 Claro! Vamos tornar esse aplicativo de agendamento de banho e tosa ainda mais atraente e convidativo:
 
-**Bem-vindo ao seu Novo Spa Pet Pessoal!**
+**Bem-vindo ao seu Pets Banho!**
 
 🐾 Imagine um mundo onde cuidar do seu querido pet nunca foi tão fácil e luxuoso! Apresentamos a você o aplicativo mais inovador de agendamento de banho e tosa, projetado para amantes de animais exigentes como você. Prepare-se para uma experiência de mimos inigualável, diretamente na palma da sua mão!
 
