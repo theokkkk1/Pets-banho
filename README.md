@@ -15,11 +15,9 @@ Claro! Vamos tornar esse aplicativo de agendamento de banho e tosa ainda mais at
 
 🗓️ **Agendamento Simplificado**: Diga adeus à espera! Com alguns toques na tela, você pode reservar facilmente um horário conveniente para o seu pet, evitando longas filas e esperas desnecessárias.
 
-📸 **Acompanhamento Visual**: Fique tranquilo durante todo o processo de cuidado do seu pet. Nosso aplicativo permite que você acompanhe o tratamento do seu amigo peludo em tempo real por meio de fotos e atualizações ao vivo.
-
 🌟 **Bônus e Recompensas**: Mime seu pet e economize! Ganhe pontos de recompensa a cada agendamento, que podem ser trocados por brindes especiais, descontos exclusivos e surpresas que farão o rabo do seu pet balançar de alegria!
 
-💖 **Atendimento de Classe Mundial**: Nossa equipe de profissionais apaixonados por pets fará de tudo para garantir que seu peludinho tenha a melhor experiência possível. Seu pet merece o melhor, e nós entregamos.
+💖 **Atendimento **: Nossa equipe de profissionais apaixonados por pets fará de tudo para garantir que seu peludinho tenha a melhor experiência possível. Seu pet merece o melhor, e nós entregamos.
 
 🎉 **Eventos e Comunidade**: Faça parte de uma comunidade de amantes de pets e nunca perca um evento especial, promoção ou notícia sobre cuidados com animais. Conecte-se com outros donos de pets e compartilhe histórias e dicas!
 
