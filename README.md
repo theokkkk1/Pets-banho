@@ -5,6 +5,7 @@
 - Realizando o botão de cadastro do figma
 
 Colaboradores
+
 Marcus Antônio Rodrigues Monteiro Rios de Pina
 Theo Jose Luna Leal
 Gustavo Gomes
