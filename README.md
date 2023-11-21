@@ -4,7 +4,7 @@
 
 - Realizando o menu principal
   
-  <img src="[https://exemplo.com/logo.png](https://cdn.discordapp.com/attachments/757697482313433109/1176658508272390184/image.png?ex=656faba1&is=655d36a1&hm=b0b203a76fc497bf392d33c2e64f441d34bdee3d57d36f461e7493bc3a97e8bd&)https://cdn.discordapp.com/attachments/757697482313433109/1176658508272390184/image.png?ex=656faba1&is=655d36a1&hm=b0b203a76fc497bf392d33c2e64f441d34bdee3d57d36f461e7493bc3a97e8bd&" alt="Menu">
+  <img src="https://cdn.discordapp.com/attachments/757697482313433109/1176658508272390184/image.png?ex=656faba1&is=655d36a1&hm=b0b203a76fc497bf392d33c2e64f441d34bdee3d57d36f461e7493bc3a97e8bd&" alt="Texto Alternativo">
 
 # Colaboradores
 
