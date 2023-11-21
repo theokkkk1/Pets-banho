@@ -8,7 +8,7 @@
 
 Tela "Criar Conta"
 
-  <img src="[URL_da_Imagem](https://cdn.discordapp.com/attachments/757697482313433109/1176658561405829240/image.png?ex=656fabae&is=655d36ae&hm=3a3818c27857925247b562c272cf61c66545417a80a35dd47627b43e79512aad&)" >
+  <img src="[URL_da_Imagem](https://cdn.discordapp.com/attachments/757697482313433109/1176658561405829240/image.png?ex=656fabae&is=655d36ae&hm=3a3818c27857925247b562c272cf61c66545417a80a35dd47627b43e79512aad&)" alt="Tela do Menu">
 
 -Tela de "Login"
   
