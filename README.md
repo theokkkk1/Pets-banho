@@ -8,11 +8,11 @@
 
 Tela "Criar Conta"
 
-  <img src="(https://cdn.discordapp.com/attachments/757697482313433109/1176658561405829240/image.png?ex=656fabae&is=655d36ae&hm=3a3818c27857925247b562c272cf61c66545417a80a35dd47627b43e79512aad&)" alt="Tela de criar conta">
+  <img src="https://cdn.discordapp.com/attachments/757697482313433109/1176658561405829240/image.png?ex=656fabae&is=655d36ae&hm=3a3818c27857925247b562c272cf61c66545417a80a35dd47627b43e79512aad&" alt="Tela de criar conta">
 
 -Tela de "Login"
   
-  <img src="(https://cdn.discordapp.com/attachments/757697482313433109/1176658627373838477/image.png?ex=656fabbe&is=655d36be&hm=2a70435f4b9cd2434e759c6f0993cb6aac3b59f5ddeb3a0b88ee88f45d74a123&)" alt="Tela de Login">
+  <img src="https://cdn.discordapp.com/attachments/757697482313433109/1176658627373838477/image.png?ex=656fabbe&is=655d36be&hm=2a70435f4b9cd2434e759c6f0993cb6aac3b59f5ddeb3a0b88ee88f45d74a123&" alt="Tela de Login">
 
 -Tela do "Menu Principal"
   
