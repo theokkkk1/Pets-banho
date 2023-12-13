@@ -3,7 +3,7 @@
 
 ![image](https://github.com/theokkkk1/Pets-banho/assets/144964704/8261eb29-666d-4d25-946a-95ff3d3cb706)
 
-Claro! Vamos tornar esse aplicativo de agendamento de banho e tosa ainda mais atraente e convidativo:
+Claro! Vamos tornar esse aplicativo de agendamento de banho e tosa ainda mais atraente e convidativo para os usuarios:
 
 **Bem-vindo ao seu Pets Banho!**
 
@@ -26,7 +26,6 @@ Claro! Vamos tornar esse aplicativo de agendamento de banho e tosa ainda mais at
 Baixe agora e transforme os cuidados com o seu pet em uma experiência de spa de luxo! Seu amigo peludo merece o melhor, e nós estamos aqui para proporcionar isso. Deixe seu pet brilhar e se sentir mimado como nunca antes.
 
 Não espere mais! Faça o download agora e comece a criar memórias especiais de cuidados com o seu peludinho. Junte-se à revolução do cuidado com animais de estimação! 🐶🐱🐾
-
 
 
 
